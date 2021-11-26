@@ -1,0 +1,50 @@
+h4 {
+  padding: 20px 0 0 100px;
+  margin-top: 50px;
+  font-size: 15px;
+  color: gray;
+}
+
+.companiesList {
+  margin: 50px 240px 20px 240px;
+  /* margin: auto; */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.companiesList div {
+  padding: 5px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.companiesList div:hover {
+  cursor: pointer;
+  transform: scale(1.25);
+}
+
+.companiesList div img {
+  width: 100px;
+  height: 50px;
+}
+
+@media (max-width: 1040px) {
+  .companiesList {
+    /* grid-template-columns: repeat(3, 1fr); */
+    margin: auto;
+  }
+}
+
+@media (max-width: 670px) {
+  .companiesList {
+    grid-template-columns: repeat(2, 1fr);
+    margin: auto;
+  }
+  .companiesList div img {
+    width: 130px;
+    height: 70px;
+  }
+}

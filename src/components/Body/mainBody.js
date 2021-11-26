@@ -1,9 +1,10 @@
 import React from 'react';
+import Sponsors from './Sponsors/sponsors';
 
 const mainBody = () => {
 	return (
 		<div>
-			MainBody
+			<Sponsors />
 		</div>
 	)
 }
