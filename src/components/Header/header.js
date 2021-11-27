@@ -64,7 +64,7 @@ const header = () => {
 						</span>
 					</h1>
 
-					<a href="/" className="btn btn--white btn--animated">
+					<a href="https://www.berkshirehathaway.com/" target="_blank" className="btn btn--white btn--animated">
 						Read Owner's Manual
 					</a>
 				</div>

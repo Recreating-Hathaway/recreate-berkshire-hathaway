@@ -8,7 +8,7 @@ const footer = () => {
 				<div className="container">
 					<div className="row">
 						<div className="footer-col">
-							<h4>BERKSHIRE HATHAWAY</h4>
+							<h4>BH</h4>
 							<ul>
 								<li>
 									<a href="#">About</a>
