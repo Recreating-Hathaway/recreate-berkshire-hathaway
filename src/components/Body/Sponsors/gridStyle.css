@@ -1,12 +1,13 @@
 h4 {
   padding: 20px 0 0 100px;
   margin-top: 50px;
+  margin-bottom: 25px;
   font-size: 15px;
   color: gray;
 }
 
 .companiesList {
-  margin: 50px 240px 20px 240px;
+  margin: 50px 240px 40px 240px;
   /* margin: auto; */
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -32,6 +33,9 @@ h4 {
 }
 
 @media (max-width: 1040px) {
+  h4 {
+    padding: 20px 0 0 20px;
+  }
   .companiesList {
     /* grid-template-columns: repeat(3, 1fr); */
     margin: auto;

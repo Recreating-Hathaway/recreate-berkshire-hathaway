@@ -1,13 +1,4 @@
 import React from 'react';
-import acmeBrick from './images/acmeBrick.png';
-import benjaminMoore from './images/benjaminMoore.png';
-import dq from './images/dq.png';
-import duracell from './images/duracell.png';
-import geico from './images/geico.png';
-import helDiamonds from './images/helDiamonds.png';
-import lubrizol from './images/lubrizol.png';
-import nvenergy from './images/nvenergy.png';
-
 import './gridStyle.css';
 
 const sponsors = () => {
@@ -16,28 +7,28 @@ const sponsors = () => {
 			<h4>SOME OF OUR COMPANIES:</h4>
 			<div className="companiesList">
 				<div>
-					<img src={acmeBrick} alt="" />
+					<img src="//logo.clearbit.com/duracell.com" />
 				</div>
 				<div>
-					<img src={benjaminMoore} alt="" />
+					<img src="//logo.clearbit.com/geico.com" alt="" />
 				</div>
 				<div>
-					<img src={dq} alt="" />
+					<img src="//logo.clearbit.com/benjaminmoore.com" alt="" />
 				</div>
 				<div>
-					<img src={duracell} alt="" />
+					<img src="//logo.clearbit.com/nvenergy.com" alt="" />
 				</div>
 				<div>
-					<img src={geico} alt="" />
+					<img src="//logo.clearbit.com/helzberg.com" alt="" />
 				</div>
 				<div>
-					<img src={helDiamonds} alt="" />
+					<img src="//logo.clearbit.com/lubrizol.com" alt="" />
 				</div>
 				<div>
-					<img src={lubrizol} alt="" />
+					<img src="//logo.clearbit.com/brick.com" alt="" />
 				</div>
 				<div>
-					<img src={nvenergy} alt="" />
+					<img src="//logo.clearbit.com/dairyqueen.com" alt="" />
 				</div>
 			</div>
 		</div>
