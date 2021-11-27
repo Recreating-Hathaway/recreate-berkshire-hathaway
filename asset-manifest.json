@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/recreate-berkshire-hathaway/static/css/main.6e3f3f43.chunk.css",
+    "main.js": "/recreate-berkshire-hathaway/static/js/main.10ec778a.chunk.js",
+    "main.js.map": "/recreate-berkshire-hathaway/static/js/main.10ec778a.chunk.js.map",
+    "runtime-main.js": "/recreate-berkshire-hathaway/static/js/runtime-main.9be2c765.js",
+    "runtime-main.js.map": "/recreate-berkshire-hathaway/static/js/runtime-main.9be2c765.js.map",
+    "static/js/2.954c0ff9.chunk.js": "/recreate-berkshire-hathaway/static/js/2.954c0ff9.chunk.js",
+    "static/js/2.954c0ff9.chunk.js.map": "/recreate-berkshire-hathaway/static/js/2.954c0ff9.chunk.js.map",
+    "index.html": "/recreate-berkshire-hathaway/index.html",
+    "static/css/main.6e3f3f43.chunk.css.map": "/recreate-berkshire-hathaway/static/css/main.6e3f3f43.chunk.css.map",
+    "static/js/2.954c0ff9.chunk.js.LICENSE.txt": "/recreate-berkshire-hathaway/static/js/2.954c0ff9.chunk.js.LICENSE.txt",
+    "static/media/_header.scss": "/recreate-berkshire-hathaway/static/media/warren-buffet.c9ecc636.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9be2c765.js",
+    "static/js/2.954c0ff9.chunk.js",
+    "static/css/main.6e3f3f43.chunk.css",
+    "static/js/main.10ec778a.chunk.js"
+  ]
+}
