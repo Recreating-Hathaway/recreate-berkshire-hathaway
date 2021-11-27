@@ -1,10 +1,16 @@
 import React from 'react';
 import './gridStyle.css';
+import "../../Header/_utilities.scss";
 
 const sponsors = () => {
 	return (
-		<div>
-			<h4>SOME OF OUR COMPANIES:</h4>
+		<div className="sponser-body">
+
+        <div className="u-center-text u-margin-bottom-big">
+          <h2 className="heading-secondary">SOME OF OUR COMPANIES:</h2>
+        </div>
+
+			
 			<div className="companiesList">
 				<div>
 					<img src="//logo.clearbit.com/duracell.com" />
