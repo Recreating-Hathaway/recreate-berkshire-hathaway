@@ -53,10 +53,6 @@ ul {
   width: 50px;
 }
 
-.footer-col ul {
-  margin-left: 100px;
-}
-
 .footer-col ul li:not(:last-child) {
   margin-bottom: 10px;
 }
